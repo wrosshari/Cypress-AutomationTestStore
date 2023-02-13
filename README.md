@@ -20,8 +20,8 @@ Scenario test :
 ------------------------------------------------------------------------------------------------------------------------
 |       Test case        |       Test steps        |            Expected             |      Actual      |     Status    |
 -------------------------|-------------------------|---------------------------------|------------------|----------------
-|  User select currecy   |  - open web             |   show selected currency in each product product price    |  as expected     |   PASSED      |
+|  User select currecy   |  - open web             | show selected currency in each product product price    |  as expected     |   PASSED      |
 |                        |  - click on currency dropdown menu   |       |                  |               |
-|                        |  - select curreny       |                                 |                  |               |
+|                        |  - select currency       |                                 |                  |               |
                         
 
