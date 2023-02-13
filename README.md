@@ -25,4 +25,8 @@ User select currecy      |  - open web             |   show selected currency in
                          |    dropdown menu        |                                 |                  |               |
                          |  - select curreny       |                                 |                  |               |
                         
+                        
+| Attempt | #1  | #2  |
+| ------- | --- | --- |
+| Seconds | 301 | 283 |
     
