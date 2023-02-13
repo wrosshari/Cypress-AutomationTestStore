@@ -17,7 +17,6 @@ How to run :
 Scenario test : 
 - this test will select each currency and verify whether in product price will show the right currency or not
 
-------------------------------------------------------------------------------------------------------------------------
 |       Test case        |       Test steps        |            Expected             |      Actual      |     Status    |
 -------------------------|-------------------------|---------------------------------|------------------|----------------
 |  User select currecy   |  - open web             | show selected currency in each product product price    |  as expected     |   PASSED      |
