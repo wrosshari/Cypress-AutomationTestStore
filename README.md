@@ -21,8 +21,8 @@ Scenario test :
     Test case            |       Test steps        |            Expected             |      Actual      |     Status    |
 -------------------------------------------------------------------------------------------------------------------------
 User select currecy      |  - open web             |   show selected currency in     |  as expected     |   PASSED      |
-                         |  - click on currency    |   each product product price    |                  |               |
-                         |    dropdown menu        |                                 |                  |               |
-                         |  - select curreny       |                                 |                  |               |
--------------------------------------------------------------------------------------------------------------------------                         
+                           - click on currency       each product product price                      
+                             dropdown menu                                        
+                           - select curreny                                       
+                        
     
