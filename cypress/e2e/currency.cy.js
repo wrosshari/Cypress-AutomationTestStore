@@ -7,11 +7,11 @@ describe("Check currency symbol on each product price", function () {
         homePage.openHomePage();
     })
 
-    before(function () {
-        cy.fixture("currName").then(function (data) {
-            globalThis.data = data;
-        })
-    })
+    // before(function () {
+    //     cy.fixture("currName").then(function (data) {
+    //         globalThis.data = data;
+    //     })
+    // })
 
     it("Check currency symbol on each product in Home Page", function () {
 

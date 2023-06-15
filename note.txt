@@ -1,0 +1,10 @@
+login name : testwinda
+email : wrosshari.fl@gmail.com
+pass : 123123
+
+
+#install allure
+https://github.com/Shelex/cypress-allure-plugin
+npm i -D @shelex/cypress-allure-plugin
+
+open report : allure open
