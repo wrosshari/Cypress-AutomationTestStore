@@ -1,0 +1,171 @@
+[ {
+  "uid" : "b4bd536f188f3d6f",
+  "name" : "Check currency symbol on each product in Men Page",
+  "time" : {
+    "start" : 1686741478947,
+    "stop" : 1686741485693,
+    "duration" : 6746
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1e94e017953b3e46",
+  "name" : "should displayed product images in each card",
+  "time" : {
+    "start" : 1686741581665,
+    "stop" : 1686741584166,
+    "duration" : 2501
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "77d6bb176e1ba70",
+  "name" : "Check currency symbol on each product in Fragrance Page",
+  "time" : {
+    "start" : 1686741471608,
+    "stop" : 1686741478921,
+    "duration" : 7313
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "41d094827c3917eb",
+  "name" : "Check currency symbol on each product in Skincare Page",
+  "time" : {
+    "start" : 1686741465510,
+    "stop" : 1686741471584,
+    "duration" : 6074
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c56e438affc78856",
+  "name" : "should show an error message for empty field",
+  "time" : {
+    "start" : 1686741523125,
+    "stop" : 1686741527873,
+    "duration" : 4748
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fe87209294873d16",
+  "name" : "Check currency symbol on each product in Home Page",
+  "time" : {
+    "start" : 1686741425307,
+    "stop" : 1686741445743,
+    "duration" : 20436
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4c22bfa8ea78b582",
+  "name" : "Check currency symbol on each product in Makeup Page",
+  "time" : {
+    "start" : 1686741457175,
+    "stop" : 1686741465487,
+    "duration" : 8312
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6a123f2b5bd84ef4",
+  "name" : "should display the login form",
+  "time" : {
+    "start" : 1686741508435,
+    "stop" : 1686741516433,
+    "duration" : 7998
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "443916a20ca44944",
+  "name" : "should successfully log in with valid credentials",
+  "time" : {
+    "start" : 1686741527883,
+    "stop" : 1686741531607,
+    "duration" : 3724
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2ddb06931adce3bb",
+  "name" : "should show an error message for invalid password",
+  "time" : {
+    "start" : 1686741520787,
+    "stop" : 1686741523104,
+    "duration" : 2317
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2f5d44b6d5bb4467",
+  "name" : "Check currency symbol on each product in Books Page",
+  "time" : {
+    "start" : 1686741490634,
+    "stop" : 1686741496880,
+    "duration" : 6246
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2601ab617764f3e6",
+  "name" : "shoudl display products sorted by ascending price",
+  "time" : {
+    "start" : 1686741564726,
+    "stop" : 1686741579107,
+    "duration" : 14381
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c3339c9b281b171e",
+  "name" : "Check currency symbol on each product in Apparel & accessories Page",
+  "time" : {
+    "start" : 1686741445773,
+    "stop" : 1686741457143,
+    "duration" : 11370
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f44040df7dab4529",
+  "name" : "should displayed product prices in each card",
+  "time" : {
+    "start" : 1686741584182,
+    "stop" : 1686741586544,
+    "duration" : 2362
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7c66f3fbb6c49af9",
+  "name" : "Check currency symbol on each product in Hair Care Page",
+  "time" : {
+    "start" : 1686741485719,
+    "stop" : 1686741490613,
+    "duration" : 4894
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "639432e4295d1a6d",
+  "name" : "should show an error message for invalid login name",
+  "time" : {
+    "start" : 1686741516449,
+    "stop" : 1686741520777,
+    "duration" : 4328
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1435a0e82f610439",
+  "name" : "should displayed product details in each card",
+  "time" : {
+    "start" : 1686741579131,
+    "stop" : 1686741581640,
+    "duration" : 2509
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
